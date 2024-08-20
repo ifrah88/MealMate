@@ -1,2 +1,3 @@
 # MealMate
-This code creates "MealMate," a restaurant app using SQLite for database management and PySimpleGUI for the GUI. Users can register, log in, set their budget and group status, view restaurants and deals, book seats, and write reviews. All data handling is managed via the SQLite database and GUI.
+
+In this code, a restaurant recommendation and booking app called "MealMate" is developed using SQLite for database management and PySimpleGUI for the graphical user interface (GUI). The app features a user-friendly GUI that allows users to register, log in, and specify their budget and group status. Based on their input, users can view a list of available restaurants, meals, and deals. The app supports booking seats, writing reviews, and viewing collected user details. The entire process, including user interactions and data management, is seamlessly handled through the PySimpleGUI interface, with all data stored and retrieved using SQLite.
